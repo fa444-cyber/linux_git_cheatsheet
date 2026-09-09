@@ -69,3 +69,11 @@ Displays the contents of a file.
 cat filename.txt
 ```
 
+
+## git status
+Shows the current state of the working directory and staging area.
+
+```bash
+git status
+```
+
