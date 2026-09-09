@@ -21,3 +21,11 @@ Changes the current directory to the one specified.
 cd /path/to/directory
 ```
 
+
+## mkdir
+Creates a new directory.
+
+```bash
+mkdir new_folder
+```
+
