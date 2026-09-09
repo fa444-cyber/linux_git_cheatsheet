@@ -93,3 +93,11 @@ Lists, creates, or deletes branches.
 git branch
 ```
 
+
+## git checkout
+Switches between branches or restores files.
+
+```bash
+git checkout branch-name
+```
+
