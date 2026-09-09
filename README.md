@@ -6,3 +6,10 @@ Lists files and directories in the current directory.
 ```bash
 ls -la
 ```
+## pwd
+Prints the current working directory (shows you which folder you're in).
+
+```bash
+pwd
+```
+
