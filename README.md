@@ -53,3 +53,11 @@ Copies a file from one location to another.
 cp source.txt destination.txt
 ```
 
+
+## mv
+Moves or renames a file.
+
+```bash
+mv oldname.txt newname.txt
+```
+
