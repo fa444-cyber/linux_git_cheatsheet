@@ -29,3 +29,11 @@ Creates a new directory.
 mkdir new_folder
 ```
 
+
+## rm
+Removes (deletes) a file.
+
+```bash
+rm filename.txt
+```
+
