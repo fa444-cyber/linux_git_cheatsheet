@@ -109,3 +109,11 @@ Combines changes from one branch into another.
 git merge branch-name
 ```
 
+
+## git clone
+Creates a local copy of a remote repository.
+
+```bash
+git clone git@github.com:username/repo.git
+```
+
