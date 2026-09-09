@@ -77,3 +77,11 @@ Shows the current state of the working directory and staging area.
 git status
 ```
 
+
+## git log
+Shows the commit history for the repository.
+
+```bash
+git log
+```
+
