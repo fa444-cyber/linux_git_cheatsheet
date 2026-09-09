@@ -61,3 +61,11 @@ Moves or renames a file.
 mv oldname.txt newname.txt
 ```
 
+
+## cat
+Displays the contents of a file.
+
+```bash
+cat filename.txt
+```
+
