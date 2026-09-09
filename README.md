@@ -45,3 +45,11 @@ Creates a new empty file.
 touch newfile.txt
 ```
 
+
+## cp
+Copies a file from one location to another.
+
+```bash
+cp source.txt destination.txt
+```
+
